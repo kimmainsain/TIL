@@ -4,7 +4,7 @@
 
 ## 학습 내역
 
-- **[230728: React와 konva를 이용한 2차원 배열 상태 최적화](https://github.com/kimmainsain/TIL/blob/master/230728/React_konva.md)**  
+- **[230728: React와 Konva를 이용한 2차원 배열 상태 최적화](https://github.com/kimmainsain/TIL/blob/master/230728/React_konva.md)**  
   프로젝트에서 konva를 이용하여 2차원 배열을 처리하며 React 상태 변화 최적화에 대한 고민을 했습니다.
 
 - **[230730: HTTP요청과 중복 코드 최적화](https://github.com/kimmainsain/TIL/blob/master/230730/React_HTTP_Callback.md)**  
@@ -17,4 +17,8 @@
   CS 스터디에서 배운 보안 관련 지식(HTTP, HTTPS, SSL, 대칭키, 비대칭키 등)을 프로젝트에 적용하기 위해 해싱과 보안에 대한 고민을 정리했습니다.
 
 - **[230802: konva의 이미지를 Firebase에 저장](https://github.com/kimmainsain/TIL/blob/master/230802/Konva_and_Firebase_Storage.md)**  
-  프로젝트에서 별자리 커스텀 이미지를 konva로 생성한 후, 그 결과물을 Firebase에 어떻게 저장할지 고민하고 구현한 과정을 상세하게 단계별로 정리했습니다. 이미지의 Data URL을 Blob으로 변환하고 Firebase에 업로드하는 방법과 흐름을 정리했습니다.
+  프로젝트에서 별자리 커스텀 이미지를 Konva로 생성한 후, 그 결과물을 Firebase에 어떻게 저장할지 고민하고 구현한 과정을 상세하게 단계별로 정리했습니다. 이미지의 Data URL을 Blob으로 변환하고 Firebase에 업로드하는 방법과 흐름을 정리했습니다.
+
+- **[230802: konva의 이미지를 Firebase에 저장](https://github.com/kimmainsain/TIL/blob/master/230803/Firebase_Image_Upload_and_MIME_Types.md)**
+  Konva 라이브러리를 사용하여 그린 이미지를 Firebase에 저장하는 프로세스를 설명합니다. 이미지를 Base64 인코딩된 문자열로 변환하고, 이를 바이너리 데이터로 디코딩한 후 Firebase 스토리지에 저장하는 과정을 포함합니다.
+  HTTP헤더와 MIMETYPE에 대한 이야기도 있습니다.
