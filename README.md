@@ -23,5 +23,5 @@
   Konva 라이브러리를 사용하여 그린 이미지를 Firebase에 저장하는 프로세스를 설명합니다. 이미지를 Base64 인코딩된 문자열로 변환하고, 이를 바이너리 데이터로 디코딩한 후 Firebase 스토리지에 저장하는 과정을 포함합니다.
   HTTP헤더와 MIMETYPE에 대한 이야기도 있습니다.
 
-- **[230804: React Life Cycle, useEffect Hook](https://github.com/kimmainsain/TIL/blob/master/230804/useEffect_and_Lifecycle_in_React.md)**
+- **[230804: React Life Cycle, useEffect Hook](https://github.com/kimmainsain/TIL/blob/master/230804/useEffect_and_Lifecycle_in_React.md)**\
   React에서의 useEffect Hook과 생명주기에 대해 정리했습니다. 정리를 통해 컴포넌트의 마운트, 업데이트, 언마운트 과정에서 수행되는 작업을 배울 수 있었습니다.
