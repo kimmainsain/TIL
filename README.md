@@ -35,6 +35,6 @@
   - SSAFY에서 컨설턴트님의 취업 조언을 정리했습니다.
 
 - **[230829: 로컬배포의 문제](https://github.com/kimmainsain/TIL/blob/master/230829/로컬배포의문제.md)**
-- **[230829: 인프라 세부 내용 정리 - 1](https://github.com/kimmainsain/TIL/blob/master/230829/인프라세부내용.md)**
   - 인프라의 사용이유, 로컬에서의 배포를 했을 때에 발생하는 문제점을 정리했습니다.
+- **[230829: 인프라 세부 내용 정리 - 1](https://github.com/kimmainsain/TIL/blob/master/230829/인프라세부내용.md)**
   - 온프레미스와 클라우드의 차이, EC2는 무엇인지, 왜 사용해야 하는지 정리했습니다.
