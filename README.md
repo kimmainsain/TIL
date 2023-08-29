@@ -29,6 +29,6 @@
 - **[230810: 뒤로가기와 props, location에 대한 휘갈기기](https://github.com/kimmainsain/TIL/blob/master/230810/230810.md)**\
   뒤로가기에 대한 고민을 했습니다. navigate(-1)의 필요성, 그에 따른 props, recoil관리에 대한 의문과 정보를 일단 적어놨습니다. 아직 정리는 못했어요
 
-- **[230828: 인프라 시작](https://github.com/kimmainsain/TIL/blob/master/230828)**\
-  1. 인프라에 대한 공부를 하기 전, 큰 흐름을 정리해봤습니다.
-  2. SSAFY에서 컨설턴트님의 취업 조언을 정리했습니다.
+- **[230828: 인프라 시작](https://github.com/kimmainsain/TIL/blob/master/230828)**
+  * 인프라에 대한 공부를 하기 전, 큰 흐름을 정리해봤습니다.
+  * SSAFY에서 컨설턴트님의 취업 조언을 정리했습니다.
