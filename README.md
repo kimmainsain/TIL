@@ -36,5 +36,12 @@
 
 - **[230829: 로컬배포의 문제](https://github.com/kimmainsain/TIL/blob/master/230829/로컬배포의문제.md)**
   - 인프라의 사용이유, 로컬에서의 배포를 했을 때에 발생하는 문제점을 정리했습니다.
-- **[230829: 인프라 세부 내용 정리 - 1](https://github.com/kimmainsain/TIL/blob/master/230829/인프라세부내용.md)**
+- **[230829: 인프라 세부 내용 정리](https://github.com/kimmainsain/TIL/blob/master/230829/인프라세부내용.md)**
+
   - 온프레미스와 클라우드의 차이, EC2는 무엇인지, 왜 사용해야 하는지 정리했습니다.
+
+- **[230909: Google Social Login](https://velog.io/@kimmainsain/React-Native-Google-Login-%ED%95%98%EB%82%98%EB%B6%80%ED%84%B0-%EC%97%B4%EA%B9%8C%EC%A7%80)**
+- 구글 소셜 로그인의 과정을 하나부터 열까지 정리했습니다.
+
+- **[230911: Expo history](https://velog.io/@kimmainsain/React-Native-Dive-in-Expo)**
+- Expo를 사용하면서 발생한 오류들, Expo의 기초에 대해서 정리했습니다.
