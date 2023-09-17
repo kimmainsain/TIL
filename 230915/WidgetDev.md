@@ -90,4 +90,4 @@
 
 난 아는게 하나도 없는데 새로운 정보가 너무 많다. 정리하고 시작하자.
 
-intent, remoteViews, pendingIntent, `Context`
+intent, remoteViews, pendingIntent, Context

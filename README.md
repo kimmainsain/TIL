@@ -45,3 +45,11 @@
 
 - **[230911: Expo history](https://velog.io/@kimmainsain/React-Native-Dive-in-Expo)**
 - Expo를 사용하면서 발생한 오류들, Expo의 기초에 대해서 정리했습니다.
+
+- **[230914: [React Native] Android Widget 생성 - 디자인](https://velog.io/@kimmainsain/React-Native-Android-Widget-%EC%83%9D%EC%84%B1-%EB%94%94%EC%9E%90%EC%9D%B8)**
+- React Native Widget을 구현하기 위한 과정 - 1
+- Apple UI UX Widget Guide를 참고하며 디자인했습니다.
+
+- **[230915: [React Native] Android Widget 생성 - Layout](https://velog.io/@kimmainsain/React-Native-Android-Widget-%EC%83%9D%EC%84%B1-Layout)**
+- React Native Widget을 구현하기 위한 과정 - 2
+- 간단한 디자인과 클릭 버튼 테스트를 진행했습니다.
