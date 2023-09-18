@@ -54,5 +54,10 @@
   - Apple UI UX Widget Guide를 참고하며 디자인했습니다.
 
 - **[230915: [React Native] Android Widget 생성 - Layout](https://velog.io/@kimmainsain/React-Native-Android-Widget-%EC%83%9D%EC%84%B1-Layout)**
+
   - React Native Widget을 구현하기 위한 과정 - 2
   - 간단한 디자인과 클릭 버튼 테스트를 진행했습니다.
+
+- **[230917: [React Native] Android Widget 생성 - Native Module 연결](https://velog.io/@kimmainsain/React-Native-Android-Widget-%EC%83%9D%EC%84%B1-Native-Module-%EC%97%B0%EA%B2%B0)**
+  - React Native Widget을 구현하기 위한 과정 - 3
+  - React Native 애플리케이션과 네이티브 코드의 연결을 위한 Bridge생성
