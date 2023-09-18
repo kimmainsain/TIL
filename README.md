@@ -41,15 +41,18 @@
   - 온프레미스와 클라우드의 차이, EC2는 무엇인지, 왜 사용해야 하는지 정리했습니다.
 
 - **[230909: Google Social Login](https://velog.io/@kimmainsain/React-Native-Google-Login-%ED%95%98%EB%82%98%EB%B6%80%ED%84%B0-%EC%97%B4%EA%B9%8C%EC%A7%80)**
-- 구글 소셜 로그인의 과정을 하나부터 열까지 정리했습니다.
+
+  - 구글 소셜 로그인의 과정을 하나부터 열까지 정리했습니다.
 
 - **[230911: Expo history](https://velog.io/@kimmainsain/React-Native-Dive-in-Expo)**
-- Expo를 사용하면서 발생한 오류들, Expo의 기초에 대해서 정리했습니다.
+
+  - Expo를 사용하면서 발생한 오류들, Expo의 기초에 대해서 정리했습니다.
 
 - **[230914: [React Native] Android Widget 생성 - 디자인](https://velog.io/@kimmainsain/React-Native-Android-Widget-%EC%83%9D%EC%84%B1-%EB%94%94%EC%9E%90%EC%9D%B8)**
-- React Native Widget을 구현하기 위한 과정 - 1
-- Apple UI UX Widget Guide를 참고하며 디자인했습니다.
+
+  - React Native Widget을 구현하기 위한 과정 - 1
+  - Apple UI UX Widget Guide를 참고하며 디자인했습니다.
 
 - **[230915: [React Native] Android Widget 생성 - Layout](https://velog.io/@kimmainsain/React-Native-Android-Widget-%EC%83%9D%EC%84%B1-Layout)**
-- React Native Widget을 구현하기 위한 과정 - 2
-- 간단한 디자인과 클릭 버튼 테스트를 진행했습니다.
+  - React Native Widget을 구현하기 위한 과정 - 2
+  - 간단한 디자인과 클릭 버튼 테스트를 진행했습니다.
