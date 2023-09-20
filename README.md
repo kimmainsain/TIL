@@ -59,5 +59,14 @@
   - 간단한 디자인과 클릭 버튼 테스트를 진행했습니다.
 
 - **[230917: [React Native] Android Widget 생성 - Native Module 연결](https://velog.io/@kimmainsain/React-Native-Android-Widget-%EC%83%9D%EC%84%B1-Native-Module-%EC%97%B0%EA%B2%B0)**
+
   - React Native Widget을 구현하기 위한 과정 - 3
   - React Native 애플리케이션과 네이티브 코드의 연결을 위한 Bridge생성
+
+- **[230919: [React Native] AppState](https://velog.io/@kimmainsain/React-Native-AppState%EB%A1%9C-%EC%95%B1%EC%9D%B4-%EC%A2%85%EB%A3%8C%EB%90%98%EC%96%B4%EB%8F%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%93%A4%EC%9D%84-%EC%82%B4%EB%A6%AC%EC%9E%90)**
+
+  - AppState로 앱이 종료되어도, 데이터들을 살리자.
+
+- **[230920: [React Native] Android Widget 생성 - Native Module 연결](https://velog.io/@kimmainsain/React-Native-Android-Widget-%EC%83%9D%EC%84%B1-%EC%9C%84%EC%A0%AF-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%B0%EB%8F%99)**
+  - React Native Widget을 구현하기 위한 과정 - 4
+  - React Native 위젯 실시간 연동

@@ -1,0 +1,1 @@
+https://velog.io/@kimmainsain/React-Native-AppState%EB%A1%9C-%EC%95%B1%EC%9D%B4-%EC%A2%85%EB%A3%8C%EB%90%98%EC%96%B4%EB%8F%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%93%A4%EC%9D%84-%EC%82%B4%EB%A6%AC%EC%9E%90
