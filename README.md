@@ -68,5 +68,11 @@
   - AppState로 앱이 종료되어도, 데이터들을 살리자.
 
 - **[230920: [React Native] Android Widget 생성 - Native Module 연결](https://velog.io/@kimmainsain/React-Native-Android-Widget-%EC%83%9D%EC%84%B1-%EC%9C%84%EC%A0%AF-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%B0%EB%8F%99)**
+
   - React Native Widget을 구현하기 위한 과정 - 4
   - React Native 위젯 실시간 연동
+
+- **[230922: [React Native] Android Widget 생성 - Native Module 연결](https://velog.io/@kimmainsain/React-Native-Android-Widget-StopWatch-%EC%83%9D%EC%84%B1-%EC%99%84%EC%84%B1)**
+
+  - React Native Widget을 구현하기 위한 과정 - 5
+  - React Native StopWatch 핵심 기능 완성
