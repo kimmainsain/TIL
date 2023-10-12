@@ -76,3 +76,7 @@
 
   - React Native Widget을 구현하기 위한 과정 - 5
   - React Native StopWatch 핵심 기능 완성
+
+- **[230922: [React Native]Axios Interceptor](https://velog.io/@kimmainsain/React-Native-Axios-Interceptor)**
+
+  - Axios Interceptor 활용
